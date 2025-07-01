@@ -9,7 +9,7 @@ A mobile-first Progressive Web App (PWA) for managing recipes and ingredients. F
 - Managing a shopping list with quick ingredient import from recipes  
 - Offline support and installable on mobile devices, offering an app-like experience without app store deployment
 
-[CookCart](cookcart.vercel.app) 
+[CookCart](https://cookcart.vercel.app) 
 
 ---
 
